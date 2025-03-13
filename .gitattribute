@@ -1,2 +1,2 @@
-* linguist-vendored
-*.python linguist-vendored=false
+
+*.jupyter%20notebook linguist-detectable=false
